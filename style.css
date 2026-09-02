@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image:url(images.jpg);
+    background-size: cover;
+}   
+.calculator{
+    background-color: bisque;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+}
+input{
+    width: 90%;
+    margin: 5px;
+    padding: 10px;
+}
+botton{
+    width:50px;
+    margin:10px;
+    padding:10px;
+    font-size:20px;
+}
